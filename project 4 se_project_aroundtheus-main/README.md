@@ -5,6 +5,7 @@
 
  
  
+
 JavaScript project focusing on core language fundamentals, DOM manipulation, responsive modals, and debugging, built as part of the TripleTen Full-Stack program.
 
 JavaScript fundamentals project covering data structures, functions, DOM manipulation, responsive modals, debugging, and Git workflows.
