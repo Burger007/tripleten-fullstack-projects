@@ -1,1 +1,33 @@
+# Coffee Shop Landing Page (BEM + Flexbox)
 
+A responsive landing page for a coffee shop, built as part of the TripleTen Full-Stack program.  
+The project focuses on clean HTML/CSS architecture using **BEM methodology**, a **flat file structure**, and modern layout techniques.
+
+## Features
+- Structured HTML with semantic sections (menu, about, footer)
+- Flexbox-based layout for complex sections (menu grid/cards)
+- Smooth hover effects and transitions
+- Simple CSS animation in the “About” section (pulsing effect)
+- Refactored CSS into a **flat BEM structure** using modular block stylesheets
+
+## Tech Stack
+- HTML5
+- CSS3 (BEM, Flexbox, transitions/animations)
+- Git & GitHub
+
+## Project Structure (BEM flat structure)
+- `blocks/` — separate stylesheet per BEM block
+- `pages/index.css` — contains only `@import` statements
+- `vendor/normalize.css` — imported first to ensure consistent base styling
+- `images/` — project assets
+
+## What I Practiced
+- Applying BEM naming and organizing styles by blocks/elements/modifiers  
+- Refactoring a single CSS file into multiple modular block stylesheets  
+- Creating consistent layout systems with Flexbox  
+- Debugging imports/paths and verifying styles in DevTools  
+
+## Plans for Improvement
+- Add mobile-first refinements and improve responsiveness across more breakpoints
+- Improve accessibility (contrast, focus states, better semantics)
+- Add a light JS enhancement (e.g., smooth scroll navigation or dynamic menu filtering)
