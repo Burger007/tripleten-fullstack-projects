@@ -1,3 +1,11 @@
+
+
+<img width="1609" height="795" alt="image" src="https://github.com/user-attachments/assets/b98732ff-6b42-4807-bc43-91721600826c" />
+
+
+
+
+
 Coffee Shop Landing Page (BEM + Flexbox)
 
 A responsive landing page for a coffee shop, built as part of the TripleTen Full-Stack program.
