@@ -1,3 +1,9 @@
+
+ 
+ 
+ <img width="1896" height="895" alt="image" src="https://github.com/user-attachments/assets/9ec951f3-1d36-4bce-b599-ccf098e8f10f" />
+
+ 
  JavaScript project focused on advanced language fundamentals, array methods, and secure DOM manipulation using template elements, with an emphasis on clean logic and maintainable code.
 
 #JavaScript project covering advanced arrays, functions, program logic, and DOM manipulation using createElement and template-based rendering.
