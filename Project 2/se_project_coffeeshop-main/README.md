@@ -1,17 +1,14 @@
-# Triple Peaks Coffee Shop
+Coffee Shop Landing Page
+A responsive static website built with HTML and CSS, focusing on clean structure and maintainable styling.
+The project uses BEM methodology with a flat file architecture, Flexbox for complex layouts, and includes hover effects and a simple CSS animation. The main goal was to practice scalable CSS organization, refactoring, and attention to layout details.
 
-This is the second project of the Software Engineering program at TripleTen. It was created using HTML and CSS, based on the design brief.
+Responsive landing page built using HTML, CSS, BEM methodology, and Flexbox, with modular styles and basic animations.
 
-## Project features
+Coffee Shop Landing Page
+HTML & CSS landing page using BEM architecture and Flexbox layouts.
 
-- Semantic HTML5
-- Flexbox
-- Positioning
-- Flat BEM file structure
-- A custom form
-- CSS animation and transform
 
-## Plan on improving the project
+
 
 Add your ideas here :)
 
