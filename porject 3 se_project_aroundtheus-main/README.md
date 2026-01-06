@@ -1,20 +1,19 @@
- Project 3: Around The U.S.
+ Project 4ם: Around The U.S.
 
-### Overview  
 
-*  "In project 3 "around the US" we use a tool called grid. grid is a helpful tool for creating a responsive layout of images that are exported from the web.
-* for example, we use the "grid-template-columns" which defines the column of the CSS container. Go into depth, the minmax value is to create responsive and flexible grid layouts. this value helps define the minimum grid size it can be flexible in certain jumps. ![image](https://github.com/Burger007/se_project_aroundtheus/assets/72559320/dff33ac9-b6e3-4974-a4c9-c5029cefb941) The auto value prevents the images from getting squeezed together and keeps it wide as possible.
 
-* another useful tool to make the website responsive without any errors is the grid-template-area: image The grid-template-area, is a rectangular area consisting of one or more grid cells. This is applied to the grid container tell ho much space should it contain. NOTE! it must look like a rectangular shape and not "L" shaped if it is shaped as an "L" the property won't work and no changes will be made.
+<img width="1894" height="902" alt="image" src="https://github.com/user-attachments/assets/b2d960a4-aaf4-4f92-a137-fee87b4b92f9" />
 
-![Untitled](https://github.com/Burger007/se_project_aroundtheus/assets/72559320/dc61da3b-8b47-46bd-854f-89481989f2f2)
+<img width="1880" height="888" alt="image" src="https://github.com/user-attachments/assets/fc20ac82-5832-4f1f-b823-a7780aed4fb3" />
 
-another tool we use is Figma. Figma is a tool in which we the designers apply our design and our job is to implement the margins, paddings, etc according to the design. It is crucial to negotiate, with the designer, what are the most appropriate spaces to apply so that the project would be efficient and with fewer errors as possible
-  
- https://burger007.github.io/se_project_aroundtheus/
- 
-  video recording: https://drive.google.com/file/d/1F83sHKwG3qxsv6Kng022Bp9uyzp_dvUA/view?usp=sharing
 
-  
 
-  
+
+
+# JavaScript project focusing on core language fundamentals, DOM manipulation, responsive modals, and debugging, built as part of the TripleTen Full-Stack program.
+
+# JavaScript fundamentals project covering data structures, functions, DOM manipulation, responsive modals, debugging, and Git workflows.
+
+# JavaScript fundamentals and DOM manipulation project with responsive UI components.
+
+# JavaScript project demonstrating core language fundamentals, DOM manipulation, responsive modals, and structured debugging practices.
