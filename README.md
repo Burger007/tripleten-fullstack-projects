@@ -1,1 +1,8 @@
-# tripleten-fullstack-projects
+| Project                                    | Focus                         | What I Built                                                  | Key Skills & Concepts                                                                            |
+| ------------------------------------------ | ----------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| **Project 2**<br/>Coffee Shop Landing Page | HTML & CSS Architecture       | Responsive landing page with structured layout and animations | Semantic HTML, BEM methodology, flat CSS structure, Flexbox, transitions & animations            |
+| **Project 4**<br/>JavaScript Fundamentals  | Core JavaScript + DOM         | Interactive UI elements and responsive modal                  | JS fundamentals, variables & data types, loops, functions, DOM basics, debugging                 |
+| **Project 5**<br/>Advanced JS & Templates  | Clean Rendering Logic         | Dynamic rendering using templates and array methods           | Array methods (`map`, `filter`, `reduce`), functions, template elements, secure DOM manipulation |
+| **Project 6**<br/>Events & Forms           | User Interaction & Validation | Fully interactive forms with validation and improved UX       | Objects, event handling, event delegation, form handling, client-side validation                 |
+| **Project 7**<br/>OOP Refactor             | Code Organization             | Refactored app using reusable JavaScript classes              | OOP principles, classes, encapsulation, inheritance, modular file structure                      |
+| **Project 8**<br/>Scalable Architecture    | Production-Ready Setup        | Modular app with Webpack build and layered architecture       | ES6 modules, destructuring, loose coupling, Webpack, Babel, build & dev scripts                  |
