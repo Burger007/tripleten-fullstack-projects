@@ -1,20 +1,9 @@
- Project 3: Around The U.S.
+<img width="1898" height="876" alt="image" src="https://github.com/user-attachments/assets/f6627ed1-e9fb-4d33-8bbe-63e6090fc497" />
+<img width="1890" height="884" alt="image" src="https://github.com/user-attachments/assets/1566d022-b999-4925-99d4-11ab04e5d677" />
 
-### Overview  
-
-*  "In project 3 "around the US" we use a tool called grid. grid is a helpful tool for creating a responsive layout of images that are exported from the web.
-* for example, we use the "grid-template-columns" which defines the column of the CSS container. Go into depth, the minmax value is to create responsive and flexible grid layouts. this value helps define the minimum grid size it can be flexible in certain jumps. ![image](https://github.com/Burger007/se_project_aroundtheus/assets/72559320/dff33ac9-b6e3-4974-a4c9-c5029cefb941) The auto value prevents the images from getting squeezed together and keeps it wide as possible.
-
-* another useful tool to make the website responsive without any errors is the grid-template-area: image The grid-template-area, is a rectangular area consisting of one or more grid cells. This is applied to the grid container tell ho much space should it contain. NOTE! it must look like a rectangular shape and not "L" shaped if it is shaped as an "L" the property won't work and no changes will be made.
-
-![Untitled](https://github.com/Burger007/se_project_aroundtheus/assets/72559320/dc61da3b-8b47-46bd-854f-89481989f2f2)
-
-another tool we use is Figma. Figma is a tool in which we the designers apply our design and our job is to implement the margins, paddings, etc according to the design. It is crucial to negotiate, with the designer, what are the most appropriate spaces to apply so that the project would be efficient and with fewer errors as possible
-  
- https://burger007.github.io/se_project_aroundtheus/
- 
-  video recording: https://drive.google.com/file/d/1F83sHKwG3qxsv6Kng022Bp9uyzp_dvUA/view?usp=sharing
 
   
-
-  
+In this stage of Around The U.S., I implemented client-side validation for all forms and improved popup usability. 
+Validation displays browser error messages under invalid inputs and disables the submit button until all fields are valid, including proper reset behavior when reopening modals.
+I also added UX improvements allowing popups to close via overlay click and the Esc key. 
+All validation logic was extracted into a dedicated validate.js module and enabled via a reusable configuration object.
